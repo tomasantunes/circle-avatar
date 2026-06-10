@@ -1,0 +1,3 @@
+Por favor constrói-me uma aplicação em HTML, CSS e JQuery com Canvas para o utilizador carregar uma fotografia de perfil e automaticamente criar no canvas a foto de perfil cortada em formato de círculo (no centro).
+
+Já agora, no Canvas, adiciona a possibilidade de ajustar a foto quadridirecionalmente e cortar retangularmente para no fim exportar o PNG com fundo transparente da foto de perfil em formato de círculo.
